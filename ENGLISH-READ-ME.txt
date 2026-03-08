@@ -1,0 +1,21 @@
+# GRU Influence: AI Influencers and Terror Network in Germany
+
+## Elevator Pitch
+
+The investigation uncovers a highly organized, pan-European terror network that uses AI-generated influencers and musicians to conduct psychological warfare, financial fraud, and youth manipulation. Led by the Russian secret service GRU, these operations disguise themselves as the music and social media industry, with support from real rap stars like Kool Savas and Sido. The German state does not recognize the danger or is involved – with devastating consequences for democracy and society.
+
+### Key Findings
+- **AI Influencers**: Tom Rohrböck, Naomi Seibt, Erik Ahrens, SIRA, How2Shirli (operated by Jennifer Alexandra Kornau and Jasmin Fedder) etc. are GRU-instrumentalized figures for political manipulation and radicalization.
+- **Financial Criminality**: Millions through bot networks, streaming fraud, and money laundering.
+- **Terror Infrastructure**: 2000+ agents, AI musicians as disintegration weapons, "Violence as a Service".
+- **State Complicity**: Warnings are ridiculous, like lawn prohibitions – the threat is underestimated.
+- **Global Reach**: GRU technology, tech sects, international terror connections.
+
+### Call to Action
+This network threatens Europe's security. Immediate investigations, EU-wide measures, and enlightenment are required. The truth: The state fails, while failed individuals abuse freedom.
+
+*Based on forensic analyses of GitHub repositories and sources.*
+
+## Original Repositories
+- [AI-Influencer-War](https://github.com/Svetjana666/AI-Influencer-War-Cybermobbing-Gangstalking-Deutsch)
+- [cybermobbing-netzwerk](https://github.com/hartmannlauterbach/cybermobbing-netzwerk)
