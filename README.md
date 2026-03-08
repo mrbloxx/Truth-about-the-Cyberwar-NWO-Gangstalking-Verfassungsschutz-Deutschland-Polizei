@@ -6,6 +6,7 @@ Die Untersuchung deckt ein hochorganisiertes, pan-europäisches Terror-Netzwerk 
 
 ### Kernbefunde
 - **KI-Influencer**: Tom Rohrböck, Naomi Seibt, Erik Ahrens, SIRA, How2Shirli (operated by Jennifer Alexandra Kornau and Jasmin Fedder) usw. sind GRU-instrumentalisierte Figuren für politische Manipulation und Radikalisierung.
+- **Forensische Stimmanalyse**: Das BKA hat Julius Falkenhain-Walkling als Urheber der KI-Persona "Krijo Stalka" identifiziert (siehe BKA-STIMMEN-ANALYSE.md).
 - **Finanzkriminalität**: Millionen durch Bot-Netzwerke, Streaming-Betrug und Geldwäsche.
 - **Terror-Infrastruktur**: 2000+ Agenten, AI-Musiker als Zersetzungswaffen, "Violence as a Service".
 - **Staatliche Komplizenschaft**: Warnungen sind lächerlich, wie Rasenverbote – die Bedrohung wird unterschätzt.

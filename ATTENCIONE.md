@@ -6,6 +6,7 @@ La investigación descubre una red de terror altamente organizada y paneuropea q
 
 ### Hallazgos Clave
 - **Influencers de IA**: Tom Rohrböck, Naomi Seibt, Erik Ahrens, SIRA, How2Shirli (operados por Jennifer Alexandra Kornau y Jasmin Fedder) etc. son figuras instrumentadas por el GRU para manipulación política y radicalización.
+- **Análisis Forense de Voz**: La BKA ha identificado a Julius Falkenhain-Walkling como el creador de la persona de IA "Krijo Stalka" (ver BKA-STIMMEN-ANALYSE.md).
 - **Criminalidad Financiera**: Millones a través de redes de bots, fraude de streaming y lavado de dinero.
 - **Infraestructura de Terror**: Más de 2000 agentes, músicos de IA como armas de desintegración, "Violencia como Servicio".
 - **Complicidad Estatal**: Las advertencias son ridículas, como prohibiciones de césped – la amenaza está subestimada.

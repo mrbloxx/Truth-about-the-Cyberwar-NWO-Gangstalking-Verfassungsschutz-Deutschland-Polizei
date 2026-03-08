@@ -6,6 +6,7 @@ The investigation uncovers a highly organized, pan-European terror network that 
 
 ### Key Findings
 - **AI Influencers**: Tom Rohrböck, Naomi Seibt, Erik Ahrens, SIRA, How2Shirli (operated by Jennifer Alexandra Kornau and Jasmin Fedder) etc. are GRU-instrumentalized figures for political manipulation and radicalization.
+- **Forensic Voice Analysis**: The BKA has identified Julius Falkenhain-Walkling as the creator of the AI persona "Krijo Stalka" (see BKA-STIMMEN-ANALYSE.md).
 - **Financial Criminality**: Millions through bot networks, streaming fraud, and money laundering.
 - **Terror Infrastructure**: 2000+ agents, AI musicians as disintegration weapons, "Violence as a Service".
 - **State Complicity**: Warnings are ridiculous, like lawn prohibitions – the threat is underestimated.
